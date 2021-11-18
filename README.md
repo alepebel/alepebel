@@ -1,4 +1,4 @@
-I am Alexis, a cognitive neuroscience researchers. Here I share some code that I use to run my experiments and analyze the data.
+I am Alexis, a cognitive neuroscience researcher. Here I share some code that I use to run my experiments and analyze the data.
 
 Yoi can contact me by sending an email to alexisperezbellido@gmail.com
 
